@@ -11,7 +11,7 @@ body {
 
 .card-title {
   font-family: "Outfit", sans-serif;
-  font-size: 1rem;
+  font-size: 1.2rem;
   font-weight: 700;
   line-height: 1.5;
   margin-bottom: 0.5rem;
@@ -20,7 +20,7 @@ body {
 
 .card-text {
   font-family: "Roboto", sans-serif;
-  font-size: 0.7rem;
+  font-size: 0.9rem;
   font-weight: 400;
   line-height: 1.5;
   margin-bottom: 0.5rem;
